@@ -1,20 +1,17 @@
 ---
 layout: post
-title: Project
+title: Home with a vault
 description: another without an image
 img: 
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+Home with a vault
+A renovation project requiring the conversion of a 
+terrace into a studio space and the design of a 
+staircase to improve  natural lighting of the living space.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
-
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
+The client being an artist, was keen to imagine a very fresh sense of space for his studio.Hence idea of a brick vault was concieved. Beginning with some heavy skepticism from the structural consultants and the local construction team,who had never built a brick vault, the completion of this structure was an immense learning experience for everyone involved in this 
+project.
 
 
 <div class="img_row">

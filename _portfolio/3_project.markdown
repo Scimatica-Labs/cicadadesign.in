@@ -1,21 +1,16 @@
 ---
 layout: post
-title: Project
+title: Khanolkar house
 description: a project that redirects to another website
 img:
 redirect: https://unsplash.com
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
-
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
+Khanolkar house
+A residence for two families, the brief of the project required to build around an existing house in the same plot. The family keen of the outdoors wanted to grow a garden around the house.
+Using laterite and dressed basalt stone ( sourced from pre independence structures which were demolished in the town)the design here aims to give prominence to the vegetation, amidst which the building rests .The vision here is to allow these natural stones to age over time to eventually be a part of the garden. 
+Experimenting with natural materials in an urban setting
+Discussing and understanding the requirements of each family, and creating user oriented spaces. While giving importance to the comfort and 
 
 
 <div class="img_row">

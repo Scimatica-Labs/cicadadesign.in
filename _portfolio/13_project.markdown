@@ -1,18 +1,22 @@
 ---
 layout: post
-title: The Orchard
+title: Project
 description: a project with a background image
-img: /img/2.jpg
+img: /img/1.jpg
 ---
 
-The Orchard
-Admist an orchard of a plantation, dense canopy and shaded undergrowth, the brief for this project was to design a bourtique resort which could bring an ambience of the region of konkan, an idyllic state known for its tropical, peaceful, picturesque villages, spice gardens and its pristine seashore.
+Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+
+To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
+
+	---
+	layout: post
+	title: Project
+	description: a project with a background image
+	img: /img/12.jpg
+	---
 
 
-Since a large part of the picturesque ambience was created by the existing orchard, the approach here was to simply design every space which could seamlessly engage with the surroundings, giving minimal internal finishes. The material palette includes the use of adobe bricks, laterite, basalt rock, mud-cowdung plasters, oxide surfaces and exclusive use of Acacia timber which is a non-forest produce.
-
-Laterite cottages
-The laterite cottages had to be designed between existing rows of coconut plantation. These rows provided a width upto 5 meters, betweeen which each cottage rests with two parallel laterite walls framing the orchard which lies in front.
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
 	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
