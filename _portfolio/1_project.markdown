@@ -1,20 +1,18 @@
 ---
 layout: post
-title: Project
+title: Whistling Woods Amboli
 description: a project with a background image
 img: /img/12.jpg
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+Whistling Woods Amboli
+Because of the location of Amboli, which is situated at the northern tip of southern western ghats and southern tip of northern western Ghats, it has a unique biodiversity. Thus the approach was to design the rooms with minimal disturbance to the existing landscape.
+Since the region receives the highest rainfall in the state, the idea here is to use laterite so that it can age gracefully and blend with the site, which itself is largely composed of the same stone.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
-
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
+ Every room is different in a spatial sense with arched openings, clay tiled floor, mezzanines, courts and verandahs to enhance the experience for guests.
+Client being a biodiversity researcher and senior butterfly expert, each room is named on a butterfly and the interiors are designed by abstracting wing patterns of respected species. Also around the rooms host plants of these veriaties are planted to attract the species. This also helps in    
+The interiors
+Butterfly theme
 
 
 <div class="img_row">

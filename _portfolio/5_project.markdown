@@ -1,21 +1,15 @@
 ---
 layout: post
-title: Project
+title: Garden building
 description: a project with a background image
 img: /img/1.jpg
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+Garden building
+The brief was simple- a hotel with a requrement of 30 rooms in a narrow plot ,which overlooked a dense orchard.of palm, mango and breadfruit trees.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
-
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
-
+With the entrire ambience created by the site and trees themselves the approach here was simply to extend this scenery into each room.Hence,the design is simple and functional, with each room overlooking the orchard through full height openings.The entire building is muted down with greys of oxide polish, and browns of timber.The entire structure was envisioned to be covered with vegetation, so that it becomes a part of the 
+surrounding.
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
