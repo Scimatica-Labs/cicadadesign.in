@@ -7,9 +7,31 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
+Cicada is a multidisciplinary design firm that works within the realms of art, architecture, interior, product, education, research and social impact. We strive for a design practice that is relevant and responsive to its time, people and place. 
 
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
+‘Cicada’ emerged as a friendship between us while we were exploring the wilderness and villages surrounding our hometown - Belgaum. Travelling through these landscapes and learning about them imbibed in us a deep admiration for our natural and cultural heritage. Our design practice is informed and inspired by our travels and the lessons we learnt from people and places along the way. Cicada creates spaces, objects, visuals and interactions that are meaningful and grounded. 
+
+“We are”
+Four to five sentences introducing yourself, your work and interests (semi-formal) example 
+
+**Mohit Yalgi**
+
+Passionate about : 
+Currently working on: 
+
+**Suyash Khanolkar**
+
+Passionate about : 
+Currently working on:
+
+**Tanvi Dhond**
+
+Passionate about : 
+Currently working on:
+
+Team :
+Asmita 
+ 
 
 
 <br/>
