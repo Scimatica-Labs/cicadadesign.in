@@ -14,17 +14,17 @@ Cicada is a multidisciplinary design firm that works within the realms of art, a
 “We are”
 Four to five sentences introducing yourself, your work and interests (semi-formal) example 
 
-**Mohit Yalgi**
+###**Mohit Yalgi**
 
 Passionate about : 
 Currently working on: 
 
-**Suyash Khanolkar**
+###**Suyash Khanolkar**
 
 Passionate about : 
 Currently working on:
 
-**Tanvi Dhond**
+###**Tanvi Dhond**
 
 Passionate about : 
 Currently working on:
