@@ -6,14 +6,14 @@
 
       <div class="trigger">
         <!-- {{ site.title }} instead of blog -->
-        <a class="page-link" href="{{ site.baseurl }}/">blog</a>
-         <a class="page-link" href="{{ site.baseurl }}/work">work</a>
-         <br><a class="page-link" href="{{ site.baseurl }}/projects">projects</a>
-        {% for page in site.pages %}
+        <a class="page-link" href="{{ site.baseurl }}/about">about</a>
+         <br><a class="page-link" href="{{ site.baseurl }}/work">work</a>
+         <br><a class="page-link" href="{{ site.baseurl }}/contact"></a>
+        <!--{% for page in site.pages %}
           {% if page.title %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
-        {% endfor %}
+        {% endfor %}-->
 
       </div>
     </nav>
