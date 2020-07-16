@@ -14,6 +14,23 @@ Link to your social media connections, too. This theme is set up to use <a href=
 <img class="col one right" src="/img/prof_pic.jpg">
 <img class="col one left" src="/img/prof_pic.jpg">
 <img class="col one center" src="/img/prof_pic.jpg">
+
+
+
+<div class="row">
+  <div class="column">
+    <img src="/img/prof_pic.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/img/prof_pic.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/img/prof_pic.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div>
+
+
+
 <br/>
 <hr/>
 <!--<br/>
