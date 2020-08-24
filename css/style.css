@@ -399,7 +399,8 @@ mark,
 
 .img-fluid {
   max-width: 100%;
-  height: auto; }
+  height: auto; 
+  align: center;}
 
 .img-thumbnail {
   padding: 0.25rem;
