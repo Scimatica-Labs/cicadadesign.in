@@ -8025,7 +8025,7 @@ h1, h2, h3, h4, h5,
   color: #0033c7 !important; }
 
 .ftco-navbar-light {
-  background: transparent !important;
+  background: #000000 !important;
   z-index: 3;
   padding: 0; }
   @media (max-width: 991.98px) {
@@ -8467,10 +8467,10 @@ h1, h2, h3, h4, h5,
   max-width: 1300px; }
 
 .bg-light {
-  background: #fafafa !important; }
+  background: #ffffff !important; }
 
 .bg-white {
-  background: #fff !important; }
+  background: #ffffff !important; }
 
 .bg-primary {
   background: #0033c7; }
