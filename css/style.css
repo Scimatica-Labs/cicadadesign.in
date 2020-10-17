@@ -306,7 +306,15 @@ h7,
   font-family: inherit;
   font-weight: 300;
   line-height: 1.2;
-  color: inherit; }
+  color: #A29595; }
+  
+h8,
+.h8 {
+  margin-bottom: ;
+  font-family: inherit;
+  font-weight: 70;
+  line-height: 0.5;
+  color: #A29595; }
 
 h1, .h1 {
   font-size: 2.5rem; }
@@ -327,7 +335,10 @@ h6, .h6 {
   font-size: 1rem; }
 
 h7, .h7 {
-  font-size: 1.25rem; }
+  font-size: 1.1rem; }
+  
+h8, .h8 {
+  font-size: 0.75rem; }
 
 .lead {
   font-size: 1.25rem;
@@ -7993,9 +8004,9 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6; } }
 
 body {
-  font-family: "Poppins", Arial, sans-serif;
+  font-family: "Helvetica Neue", Arial, sans-serif;
   background: #fff;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.8;
   font-weight: 300;
   color: #666666; }
@@ -8857,7 +8868,7 @@ textarea.form-control {
   font-size: 24px; }
 
 .ftco-section {
-  padding: 2em 0;
+  padding: 0.1em 0;
   position: relative; }
 
 .ftco-no-pt {
