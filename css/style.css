@@ -3495,7 +3495,7 @@ input[type="button"].btn-block {
   margin-right: 1rem;
   font-size: 1.25rem;
   line-height: inherit;
-  white-space: nowrap; }
+  white-space:  }
   .navbar-brand:hover, .navbar-brand:focus {
     text-decoration: none; }
 
