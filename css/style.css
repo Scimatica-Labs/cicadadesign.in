@@ -6383,7 +6383,7 @@ button.bg-dark:focus {
   width: 100% !important; }
 
 .w-auto {
-  width: auto !important; }
+  width: auto !important; }carou
 
 .h-25 {
   height: 25% !important; }
@@ -8004,9 +8004,9 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6; } }
 
 body {
-  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-family: "Dotum", Arial, sans-serif;
   background: #fff;
-  font-size: 14px;
+  font-size: 12px;
   line-height: 1.8;
   font-weight: 300;
   color: #666666; }
@@ -8245,15 +8245,11 @@ h1, h2, h3, h4, h5,
     .owl-carousel .owl-nav .owl-prev,
     .owl-carousel .owl-nav .owl-next {
       position: absolute;
-      -webkit-transform: translateY(-50%);
-      -ms-transform: translateY(-50%);
+      
       transform: translateY(-50%);
       margin-top: -10px;
       color: #0033c7 !important;
-      -moz-transition: all 0.7s ease;
-      -o-transition: all 0.7s ease;
-      -webkit-transition: all 0.7s ease;
-      -ms-transition: all 0.7s ease;
+     
       transition: all 0.7s ease;
       opacity: 0; }
       .owl-carousel .owl-nav .owl-prev span:before,
@@ -8263,33 +8259,7 @@ h1, h2, h3, h4, h5,
       left: 0; }
     .owl-carousel .owl-nav .owl-next {
       right: 0; }
-  .owl-carousel .owl-dots {
-    text-align: center; }
-    .owl-carousel .owl-dots .owl-dot {
-      width: 10px;
-      height: 10px;
-      margin: 5px;
-      border-radius: 50%;
-      background: #e6e6e6;
-      position: relative; }
-      .owl-carousel .owl-dots .owl-dot:after {
-        position: absolute;
-        top: -2px;
-        left: -2px;
-        right: 0;
-        bottom: 0;
-        width: 14px;
-        height: 14px;
-        content: '';
-        border: 1px solid #e6e6e6;
-        -webkit-border-radius: 50%;
-        -moz-border-radius: 50%;
-        -ms-border-radius: 50%;
-        border-radius: 50%; }
-      .owl-carousel .owl-dots .owl-dot:hover, .owl-carousel .owl-dots .owl-dot:focus {
-        outline: none !important; }
-      .owl-carousel .owl-dots .owl-dot.active {
-        background: #b3b3b3; }
+ 
   .owl-carousel:hover .owl-nav .owl-prev,
   .owl-carousel:hover .owl-nav .owl-next {
     opacity: 1; }
